@@ -8,4 +8,4 @@ from flask import Flask
      return "Hello from the Server"
      
  if __name__ == '__main__':
-      app.run(debug
+      app.run(debug=True)
